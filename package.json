@@ -1,0 +1,24 @@
+{
+  "name": "api-calls",
+  "version": "1.0.0",
+  "description": "API calls",
+  "main": "first-request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neevan09/API-request---NodeJs.git"
+  },
+  "author": "Naveen Sampath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neevan09/API-request---NodeJs/issues"
+  },
+  "homepage": "https://github.com/Neevan09/API-request---NodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
